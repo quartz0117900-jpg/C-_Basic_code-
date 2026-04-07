@@ -1,3 +1,6 @@
+// This program prints the multiplication tables from 1 to 12.
+// It uses nested loops to generate the tables and display the results in a formatted manner.
+//you can change the range of tables and multiples by modifying the loop conditions.
 #include <iostream>
 
 using namespace std;
